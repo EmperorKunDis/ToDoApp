@@ -76,6 +76,7 @@ public class TaskItem : INotifyPropertyChanged
         }
     }
 
+
     public Brush ForegroundColor
     {
         get { return _foregroundColor; }
