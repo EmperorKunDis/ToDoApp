@@ -9,10 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Položky řešení", "Polo�
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2606C6-4AF1-416E-93A6-2E8770B06EF6}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2606C6-4AF1-416E-93A6-2E8770B06EF6}.All|Any CPU.Build.0 = Release|Any CPU
 		{CA2606C6-4AF1-416E-93A6-2E8770B06EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CA2606C6-4AF1-416E-93A6-2E8770B06EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA2606C6-4AF1-416E-93A6-2E8770B06EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
