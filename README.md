@@ -18,7 +18,7 @@ The application installs and runs in the standard way for GitHub repositories. Y
    git clone https://github.com/EmperorKunDis/ToDoApp
    ```
 
-2. Open the project in your preferred IDE that supports XAML (e.g., Visual Studio).
+2. Open the project in your preferred IDE that supports XAML (e.g., Visual Studio Code 2022).
 
 3. Build the project and run the application.
 
