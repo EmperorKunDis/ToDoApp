@@ -1,4 +1,4 @@
-```markdown
+
 # ToDoApp
 
 ToDoApp is a simple task management application with a user interface written in XAML. This application allows users to add, mark, and manage tasks with time limits.
@@ -42,4 +42,4 @@ Currently, there is no option to contribute. I am looking for a job, so you migh
 ![MyLogo (1)](https://github.com/user-attachments/assets/54f73285-641f-46ee-a6ba-1d6764c236e0)
 
 If you have any questions or need assistance, feel free to contact me.
-```
+
